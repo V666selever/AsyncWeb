@@ -1,29 +1,20 @@
 {
-	"geode": "4.3.1",
-	"gd": {
-		"win": "2.2074",
-		"mac": "2.2074",
-		"android": "2.2074",
-		"ios": "2.2074"
-	},
-	"version": "v0.1.4",
-	"id": "alphalaneous.asyncweb",
-	"name": "AsyncWeb",
-	"developer": "Alphalaneous",
-	"description": "Mod that makes web requests asynchronous.",
-	"links": {
-        "homepage": "https://linktr.ee/Alphalaneous",
-        "source": "https://github.com/Alphalaneous/AsyncWeb",
-        "community": "https://discord.gg/Txn2CA5dHF"
-    },
-	"tags": [
-		"online", "enhancement"
-	],
-	"dependencies": [
-		{
-            "id": "alphalaneous.alphas_geode_utils",
-            "version": ">=v1.1.2",
-            "importance": "required"
-        }
-    ]
+  "geode": "5.10.1",
+  "gd": {
+    "win": "2.2081",
+    "mac": "2.2081",
+    "android": "2.2081",
+    "ios": "2.2081"
+  },
+  "version": "v0.2.0",
+  "id": "alphalaneous.asyncweb",
+  "name": "AsyncWeb",
+  "developer": "Alphalaneous",
+  "description": "Mod that makes web requests asynchronous.",
+  "links": {
+    "homepage": "https://linktr.ee/Alphalaneous",
+    "source": "https://github.com/Alphalaneous/AsyncWeb",
+    "community": "https://discord.gg/Txn2CA5dHF"
+  },
+  "tags": ["online", "enhancement"]
 }
